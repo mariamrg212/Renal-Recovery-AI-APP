@@ -71,7 +71,7 @@ except Exception as e:
 # --- End of Model Loading ---
 
 
-st.title('Nephrology - Renal Recovery Predictor')
+st.title('Renal Recovery Predictor')
 st.markdown("---")
 st.write("This application predicts the likelihood of **Renal Recovery** based on patient clinical and admission data.")
 
